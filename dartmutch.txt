@@ -1,0 +1,3 @@
+--------- new exemple ---------
+if you found me in a file.txt so you win 
+--------- another exemple test ---------
